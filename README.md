@@ -1,1 +1,1 @@
-web application using spring boot with security
+Developed a web-based collaborative file management system using Spring Boot, ensuring controlled access, real-time file locking, versioning, notifications, and backup support. Implemented role-based group management, concurrency control, and auditing for secure and efficient multi-user collaboration.
